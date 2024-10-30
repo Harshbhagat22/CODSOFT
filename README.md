@@ -1,7 +1,7 @@
 
 
 
-# Web Development Internship - October Batch A80
+# Web Development Internship - October Batch A79
 Internship Duration: October 5, 2024 - November 5, 2024
 
  # Overview
