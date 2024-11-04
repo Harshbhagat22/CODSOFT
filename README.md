@@ -7,7 +7,7 @@ Internship Duration: October 5, 2024 - November 5, 2024
  # Overview
 This repository showcases the projects completed during my web development internship at Codsoft as part of the October Batch A80. Throughout this month-long journey, I have worked on three key tasks that helped me enhance my skills in front-end development and gain practical experience.
 
-# Tasks
+# Tasks  :
  # Task 1: Landing Page
 Description: Designed and developed a responsive landing page for a watch store. The goal was to create an engaging user experience while highlighting the product offerings.
 Key Features:
