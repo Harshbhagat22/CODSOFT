@@ -30,9 +30,6 @@ User-friendly interface with a modern design
 Basic arithmetic operations (addition, subtraction, multiplication, division)
 Responsive design for compatibility across devices
 Real-time results display as users input calculations
-Internship Timeline
-Start Date: October 5, 2024
-End Date: November 5, 2024
 
 # Conclusion
 This internship has been an incredible learning experience, allowing me to apply theoretical knowledge to practical projects. I look forward to building on these skills and taking on new challenges in the world of web development!
